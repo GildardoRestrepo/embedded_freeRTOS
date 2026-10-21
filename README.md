@@ -1,6 +1,6 @@
 ---
 type: readme
-created: 2026-10-06
+created: 2026-10-21
 ---
 
 # Reto 4 — Programación en alto nivel
